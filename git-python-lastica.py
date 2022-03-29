@@ -1,3 +1,5 @@
 print ("Sheriena S. Lastica")
 print ("Tapuyan, Gasan, Marinduque")
 print ("August 29, 2001")
+print ("Marinduque State College")
+print ("BS/it - 2F")
